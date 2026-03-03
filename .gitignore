@@ -1,0 +1,14 @@
+# OpenClaw 资源文件
+
+*.log
+*.bak
+*.bak.*
+.env
+.secrets
+credentials/
+memory/lancedb-pro/
+agents/*/sessions/
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
