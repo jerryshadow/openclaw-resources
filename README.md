@@ -9,6 +9,7 @@
 ### 📖 当前文档
 
 - [Diffs 插件完整指南](./docs/openclaw-diffs-plugin-setup-guide.md) - 配置、使用与故障排查
+- [OpenClaw 本地 Git 仓库配置手册](./docs/openclaw-local-git-repo-config-guide.md) - 面向 AI/Agent 的升级执行规范与提交流程
 
 ### 🚧 即将添加
 
@@ -32,6 +33,16 @@
 - ✅ 故障排查
 - ✅ 性能优化
 
+### 📖 OpenClaw 本地 Git 仓库配置手册
+
+**[查看完整手册 →](./docs/openclaw-local-git-repo-config-guide.md)**
+
+包括：
+- ✅ 现有 `~/.openclaw` 内容接管与分层处理
+- ✅ 每次变更必须提交的闭环规范
+- ✅ 每次提交后向用户回报的强制要求
+- ✅ 仓库身份初始化（用户指定 / 默认生成）
+
 ---
 
 ## 关于 Diffs 插件
@@ -52,4 +63,4 @@ OpenClaw v2026.3.1 新增的可选插件工具，用于：
 
 ---
 
-**最后更新：** 2026-03-03
+**最后更新：** 2026-03-06
