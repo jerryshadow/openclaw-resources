@@ -11,15 +11,6 @@
 - [Diffs 插件完整指南](./docs/openclaw-diffs-plugin-setup-guide.md) - 配置、使用与故障排查
 - [OpenClaw 本地 Git 仓库配置手册](./docs/openclaw-local-git-repo-config-guide.md) - 面向 AI/Agent 的升级执行规范与提交流程
 
-### 🚧 即将添加
-
-- [ ] 配置指南 - openclaw.json 配置详解
-- [ ] 技能合集 - 社区技能收集与推荐
-- [ ] 常见问题 - FAQ 与解决方案
-- [ ] 脚本工具 - 实用自动化脚本
-
----
-
 ## 快速链接
 
 ### 📖 Diffs 插件完整指南
